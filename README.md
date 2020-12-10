@@ -1,3 +1,7 @@
+10DEC2020 - Update branch from `master` to `main`.
+
+---
+
 To get the Chinook database, run the command in the Gitpod console/terminal (*the final **dot** is important!*):
 
 `wget https://raw.githubusercontent.com/lerocha/chinook-database/master/ChinookDatabase/DataSources/Chinook_MySql_AutoIncrementPKs.sql .`
